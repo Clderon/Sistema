@@ -120,4 +120,3 @@ Este proyecto es un generador de CRUD en Laravel que utiliza una sentencia SQL p
 4. **Ejecuta el index.py Generador de CRUD:**
 
 Ejecuta el siguiente comando en tu terminal y sigue las instrucciones para ingresar la sentencia SQL y generar las vistas:
->>>>>>> fad303ea45c0c2a787c13bcb9ebb0c4faf16d0de
