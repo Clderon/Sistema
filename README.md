@@ -35,8 +35,8 @@ Sigue estos pasos para instalar y configurar el proyecto localmente:
 1. **Clona el repositorio:**
 
    ```bash
-   git clone https://github.com/tu-usuario/tu-proyecto.git
-   cd tu-proyecto
+   git clone https://github.com/Clderon/Sistema.git
+   cd Sistema
    ```
 2. **Genera la clave de la aplicación Laravel:**
 
