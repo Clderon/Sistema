@@ -22,7 +22,8 @@ Este proyecto esparte  de un sistema de facturación que incluye una tabla para 
 
 Antes de comenzar, asegúrate de tener instalados los siguientes requisitos:
 
-- PHP > 10
+- PHP >= 8.1
+- Laravel 10
 - Composer
 - Node.js y NPM
 - Servidor de bases de datos (MySQL)
