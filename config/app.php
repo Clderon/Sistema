@@ -70,6 +70,7 @@ return [
     |
     */
 
+    // ! cambio UTC -> America/Lima
     'timezone' => 'UTC',
 
     /*
@@ -83,8 +84,9 @@ return [
     |
     */
 
-    'locale' => 'en',
-
+    // ! cambio en -> es
+    'locale' => 'es',
+    
     /*
     |--------------------------------------------------------------------------
     | Application Fallback Locale
@@ -95,9 +97,10 @@ return [
     | the language folders that are provided through your application.
     |
     */
-
+    
+    // ! cambio en -> es
     'fallback_locale' => 'en',
-
+    
     /*
     |--------------------------------------------------------------------------
     | Faker Locale
@@ -108,7 +111,8 @@ return [
     | localized telephone numbers, street address information and more.
     |
     */
-
+    
+    // ! cambio en_US -> es_ES
     'faker_locale' => 'en_US',
 
     /*
